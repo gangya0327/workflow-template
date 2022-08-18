@@ -9,13 +9,14 @@
         class="fruitclass"
         name="fruitname"
         id="fruitid">
-        <span>some {{f  }}</span>
+        <span>some {{ f }}</span>
       </div>
     </div>
   </div>
 </template>
 
-<script>export default {
+<script>
+export default {
   data() {
     return {
       name: 'peter',

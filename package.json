@@ -20,8 +20,5 @@
     "husky": "^8.0.1",
     "lint-staged": "^12.5.0",
     "prettier": "^2.7.1"
-  },
-  "lint-staged": {
-    "*.vue": "prettier --write"
   }
 }
