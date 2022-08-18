@@ -4,10 +4,10 @@
     <div>
       i like
       <div
-        v-for="f in fruits"
+        name="fruitname"
         :key="f"
         class="fruitclass"
-        name="fruitname"
+        v-for="f in fruits"
         id="fruitid">
         <span>some {{ f }}</span>
       </div>
