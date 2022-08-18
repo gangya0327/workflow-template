@@ -9,7 +9,7 @@
         class="fruitclass"
         v-for="f in fruits"
         id="fruitid">
-        <span>some {{ f }}</span>
+        <span>some {{ faaa }}</span>
       </div>
     </div>
   </div>
