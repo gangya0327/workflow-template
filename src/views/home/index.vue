@@ -9,7 +9,7 @@
         class="fruitclass"
         name="fruitname"
         id="fruitid">
-        <span>some {{f }}</span>
+        <span>some {{f  }}</span>
       </div>
     </div>
   </div>
