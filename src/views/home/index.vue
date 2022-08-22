@@ -6,6 +6,7 @@
       <div
         name="fruitname"
         :key="f"
+        ref="f"
         class="fruitclass"
         v-for="f in fruits"
         id="fruitid">
